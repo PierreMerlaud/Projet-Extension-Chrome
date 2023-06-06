@@ -1,4 +1,4 @@
-# Réseau social en PHP
+# Extension Chrome
 
 ## Descriptif :
 
