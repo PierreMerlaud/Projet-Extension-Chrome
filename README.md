@@ -1,4 +1,4 @@
-# Extension Chrome
+# Extension Chrome (projet en équipe)
 
 ## Descriptif :
 
